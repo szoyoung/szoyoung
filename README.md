@@ -1,5 +1,5 @@
 ## Hello
-**My name is SeoYoung Kim.**  
+**My name is Seoyoung Kim.**  
 I'm studying computer engineering.
 
 ## Tech Stacks

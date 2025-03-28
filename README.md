@@ -1,6 +1,6 @@
 <div align="center">
 
-  **Seoyoung Kim** ☁️🪽  
+  ### **Seoyoung Kim** ☁️🪽  
 Department of Computer Engineering, SEOULTECH  
 <sub>2022.03 ~ Present</sub>
 
@@ -12,7 +12,7 @@ Department of Computer Engineering, SEOULTECH
  Machine Learning
 <br>
 
-<hr>
+
 <br>
 <img src="https://img.shields.io/badge/C-FFE6E6?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-F2D1D1?style=for-the-badge&logo=C%2B%2B&logoColor=white">

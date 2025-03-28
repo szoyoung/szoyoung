@@ -1,9 +1,32 @@
-## Hello
-**My name is Seoyoung Kim.**  
-I'm studying computer engineering.
+<div align="center">
 
-## Tech Stacks
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+  **Seoyoung Kim** ☁️🪽  
+Department of Computer Engineering, SEOULTECH  
+<sub>2022.03 ~ Present</sub>
+
+---
+
+### 💡 Interests 
+
+ Backend Development<br>
+ Machine Learning
+<br>
+
+<hr>
+<br>
+<img src="https://img.shields.io/badge/C-FFE6E6?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-F2D1D1?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-DAEAF1?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-C6DCE4?style=for-the-badge&logo=Python&logoColor=white">  
+<br>
+<img src="https://img.shields.io/badge/Spring-ADB2D4?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-C7D9DD?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Android-D5E5D5?style=for-the-badge&logo=Android&logoColor=white">
+<br>
+
+<hr>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=szoyoung)](https://solved.ac/szoyoung)
+
+</div>
+

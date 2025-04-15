@@ -20,7 +20,6 @@ Department of Computer Engineering, SEOULTECH
 <img src="https://img.shields.io/badge/Python-C6DCE4?style=for-the-badge&logo=Python&logoColor=white">  
 <br>
 <img src="https://img.shields.io/badge/Spring-ADB2D4?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-C7D9DD?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Android-D5E5D5?style=for-the-badge&logo=Android&logoColor=white">
 <br>
 
